@@ -1,0 +1,10 @@
+# Librerías esenciales
+numpy
+pandas
+
+# Visualizaciones
+matplotlib
+
+# APIs y scripts
+streamlit
+
