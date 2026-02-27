@@ -1,10 +1,10 @@
 # Librerías esenciales
 numpy
 pandas
+datetime
 
 # Visualizaciones
 matplotlib
 
 # APIs y scripts
 streamlit
-
